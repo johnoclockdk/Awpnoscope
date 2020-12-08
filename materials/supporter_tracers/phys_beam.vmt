@@ -1,0 +1,7 @@
+"Sprite"
+{
+	"$spriteorientation" "parallel_upright"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	"$basetexture" "supporter_tracers/phys_beam"
+	"$spriterendermode" 5
+}
